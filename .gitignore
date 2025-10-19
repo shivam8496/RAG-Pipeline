@@ -1,0 +1,5 @@
+env/*
+submission/*
+__pycache__/*
+neo4j-desktop-2.0.5-x86_64.AppImage
+test.py

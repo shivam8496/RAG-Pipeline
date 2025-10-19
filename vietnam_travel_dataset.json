@@ -1,0 +1,99 @@
+[
+  {
+    "id": "city_hanoi",
+    "type": "City",
+    "name": "Hanoi",
+    "region": "Northern Vietnam",
+    "description": "Hanoi is located in Northern Vietnam. It’s known for its culture, food, heritage experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "February to May",
+    "tags": [
+      "culture",
+      "food",
+      "heritage"
+    ],
+    "semantic_text": "Hanoi offers a mix of culture, food, heritage attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_hue"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "city_ha_long",
+    "type": "City",
+    "name": "Ha Long Bay",
+    "region": "Northern Vietnam",
+    "description": "Ha Long Bay is located in Northern Vietnam. It’s known for its beach, cruise, nature experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "February to May",
+    "tags": [
+      "beach",
+      "cruise",
+      "nature"
+    ],
+    "semantic_text": "Ha Long Bay offers a mix of beach, cruise, nature attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_hoi_an"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "city_sapa",
+    "type": "City",
+    "name": "Sapa",
+    "region": "Northern Vietnam",
+    "description": "Sapa is located in Northern Vietnam. It’s known for its mountain, trekking, ethnic experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "October to April",
+    "tags": [
+      "mountain",
+      "trekking",
+      "ethnic"
+    ],
+    "semantic_text": "Sapa offers a mix of mountain, trekking, ethnic attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_da_nang"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "city_hue",
+    "type": "City",
+    "name": "Hue",
+    "region": "Central Vietnam",
+    "description": "Hue is located in Central Vietnam. It’s known for its imperial, history, architecture experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "October to April",
+    "tags": [
+      "imperial",
+      "history",
+      "architecture"
+    ],
+    "semantic_text": "Hue offers a mix of imperial, history, architecture attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_sapa"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {"_comment":"This is just a dummy graph"}
+]
